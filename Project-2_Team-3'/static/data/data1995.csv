@@ -1,0 +1,421 @@
+region,country,state,city,month,day,year,avgtemperature
+Africa,Algeria,NULL,Algiers,1,1,1995,64.2
+Africa,Algeria,NULL,Algiers,2,1,1995,50.4
+Africa,Algeria,NULL,Algiers,3,1,1995,52.2
+Africa,Algeria,NULL,Algiers,4,1,1995,47.4
+Africa,Algeria,NULL,Algiers,5,1,1995,60.4
+Africa,Algeria,NULL,Algiers,6,1,1995,64.6
+Africa,Algeria,NULL,Algiers,7,1,1995,78.6
+Africa,Algeria,NULL,Algiers,8,1,1995,80.1
+Africa,Algeria,NULL,Algiers,9,1,1995,76.3
+Africa,Algeria,NULL,Algiers,10,1,1995,69
+Africa,Algeria,NULL,Algiers,11,1,1995,67.9
+Africa,Algeria,NULL,Algiers,12,1,1995,57.3
+Africa,Egypt,NULL,Cairo,1,1,1995,59.2
+Africa,Egypt,NULL,Cairo,2,1,1995,58.1
+Africa,Egypt,NULL,Cairo,3,1,1995,62.3
+Africa,Egypt,NULL,Cairo,4,1,1995,65
+Africa,Egypt,NULL,Cairo,5,1,1995,73.9
+Africa,Egypt,NULL,Cairo,6,1,1995,77.4
+Africa,Egypt,NULL,Cairo,7,1,1995,98.9
+Africa,Egypt,NULL,Cairo,8,1,1995,80.4
+Africa,Egypt,NULL,Cairo,9,1,1995,81.1
+Africa,Egypt,NULL,Cairo,10,1,1995,76.8
+Africa,Egypt,NULL,Cairo,11,1,1995,66.4
+Africa,Egypt,NULL,Cairo,12,1,1995,63.7
+Africa,Ethiopia,NULL,Addis Ababa,1,1,1995,61.2
+Africa,Ethiopia,NULL,Addis Ababa,2,1,1995,63.7
+Africa,Ethiopia,NULL,Addis Ababa,3,1,1995,63
+Africa,Ethiopia,NULL,Addis Ababa,4,1,1995,65.4
+Africa,Ethiopia,NULL,Addis Ababa,5,1,1995,68.3
+Africa,Ethiopia,NULL,Addis Ababa,6,1,1995,64
+Africa,Ethiopia,NULL,Addis Ababa,7,1,1995,59.4
+Africa,Ethiopia,NULL,Addis Ababa,8,1,1995,60.4
+Africa,Ethiopia,NULL,Addis Ababa,9,1,1995,59.9
+Africa,Ethiopia,NULL,Addis Ababa,10,1,1995,63
+Africa,Ethiopia,NULL,Addis Ababa,11,1,1995,60.6
+Africa,Ethiopia,NULL,Addis Ababa,12,1,1995,61.5
+Africa,Morocco,NULL,Rabat,1,1,1995,59.6
+Africa,Morocco,NULL,Rabat,2,1,1995,57.4
+Africa,Morocco,NULL,Rabat,3,1,1995,57.8
+Africa,Morocco,NULL,Rabat,4,1,1995,68.7
+Africa,Morocco,NULL,Rabat,5,1,1995,68.9
+Africa,Morocco,NULL,Rabat,6,1,1995,68.9
+Africa,Morocco,NULL,Rabat,7,1,1995,68.7
+Africa,Morocco,NULL,Rabat,8,1,1995,72.6
+Africa,Morocco,NULL,Rabat,9,1,1995,78.9
+Africa,Morocco,NULL,Rabat,10,1,1995,65.3
+Africa,Morocco,NULL,Rabat,11,1,1995,70.9
+Africa,Morocco,NULL,Rabat,12,1,1995,56.8
+Africa,Madagascar,NULL,Antananarivo,1,1,1995,70.2
+Africa,Madagascar,NULL,Antananarivo,2,1,1995,69.9
+Africa,Madagascar,NULL,Antananarivo,3,1,1995,70.6
+Africa,Madagascar,NULL,Antananarivo,4,1,1995,71.9
+Africa,Madagascar,NULL,Antananarivo,5,1,1995,67.3
+Africa,Madagascar,NULL,Antananarivo,6,1,1995,64.3
+Africa,Madagascar,NULL,Antananarivo,7,1,1995,57.4
+Africa,Madagascar,NULL,Antananarivo,8,1,1995,57.4
+Africa,Madagascar,NULL,Antananarivo,9,1,1995,58.9
+Africa,Madagascar,NULL,Antananarivo,10,1,1995,62.9
+Africa,Madagascar,NULL,Antananarivo,11,1,1995,66.5
+Africa,Madagascar,NULL,Antananarivo,12,1,1995,77.7
+Africa,Nigeria,NULL,Niamey,1,1,1995,74
+Africa,Nigeria,NULL,Niamey,2,1,1995,76
+Africa,Nigeria,NULL,Niamey,3,1,1995,87.3
+Africa,Nigeria,NULL,Niamey,4,1,1995,92.4
+Africa,Nigeria,NULL,Niamey,5,1,1995,96.1
+Africa,Nigeria,NULL,Niamey,6,1,1995,92.3
+Africa,Nigeria,NULL,Niamey,7,1,1995,85.9
+Africa,Nigeria,NULL,Niamey,8,1,1995,79.1
+Africa,Nigeria,NULL,Niamey,9,1,1995,83
+Africa,Nigeria,NULL,Niamey,10,1,1995,89.8
+Africa,Nigeria,NULL,Niamey,11,1,1995,89.9
+Africa,Nigeria,NULL,Niamey,12,1,1995,78.6
+Asia,China,NULL,Beijing,1,1,1995,28
+Asia,China,NULL,Beijing,2,1,1995,26.7
+Asia,China,NULL,Beijing,3,1,1995,36.8
+Asia,China,NULL,Beijing,4,1,1995,45.7
+Asia,China,NULL,Beijing,5,1,1995,55.3
+Asia,China,NULL,Beijing,6,1,1995,66.5
+Asia,China,NULL,Beijing,7,1,1995,68.3
+Asia,China,NULL,Beijing,8,1,1995,79.4
+Asia,China,NULL,Beijing,9,1,1995,68.9
+Asia,China,NULL,Beijing,10,1,1995,65.5
+Asia,China,NULL,Beijing,11,1,1995,41.8
+Asia,China,NULL,Beijing,12,1,1995,37
+Asia,Hong Kong,NULL,Hong Kong,1,1,1995,64.2
+Asia,Hong Kong,NULL,Hong Kong,2,1,1995,57.4
+Asia,Hong Kong,NULL,Hong Kong,3,1,1995,57.7
+Asia,Hong Kong,NULL,Hong Kong,4,1,1995,62.4
+Asia,Hong Kong,NULL,Hong Kong,5,1,1995,82.2
+Asia,Hong Kong,NULL,Hong Kong,6,1,1995,84.4
+Asia,Hong Kong,NULL,Hong Kong,7,1,1995,84.4
+Asia,Hong Kong,NULL,Hong Kong,8,1,1995,84.3
+Asia,Hong Kong,NULL,Hong Kong,9,1,1995,82.8
+Asia,Hong Kong,NULL,Hong Kong,10,1,1995,84
+Asia,Hong Kong,NULL,Hong Kong,11,1,1995,74.6
+Asia,Hong Kong,NULL,Hong Kong,12,1,1995,67.9
+Asia,India,NULL,Delhi,1,1,1995,50.7
+Asia,India,NULL,Delhi,2,1,1995,58
+Asia,India,NULL,Delhi,3,1,1995,61.7
+Asia,India,NULL,Delhi,4,1,1995,74.9
+Asia,India,NULL,Delhi,5,1,1995,90.8
+Asia,India,NULL,Delhi,6,1,1995,98.2
+Asia,India,NULL,Delhi,7,1,1995,93.8
+Asia,India,NULL,Delhi,8,1,1995,85.1
+Asia,India,NULL,Delhi,9,1,1995,86.1
+Asia,India,NULL,Delhi,10,1,1995,86.2
+Asia,India,NULL,Delhi,11,1,1995,70.5
+Asia,India,NULL,Delhi,12,1,1995,55.7
+Asia,Japan,NULL,Tokyo,1,1,1995,43
+Asia,Japan,NULL,Tokyo,2,1,1995,41.2
+Asia,Japan,NULL,Tokyo,3,1,1995,45.8
+Asia,Japan,NULL,Tokyo,4,1,1995,54.1
+Asia,Japan,NULL,Tokyo,5,1,1995,60
+Asia,Japan,NULL,Tokyo,6,1,1995,66.9
+Asia,Japan,NULL,Tokyo,7,1,1995,75.4
+Asia,Japan,NULL,Tokyo,8,1,1995,85.9
+Asia,Japan,NULL,Tokyo,9,1,1995,81.4
+Asia,Japan,NULL,Tokyo,10,1,1995,71.7
+Asia,Japan,NULL,Tokyo,11,1,1995,61
+Asia,Japan,NULL,Tokyo,12,1,1995,47.1
+Asia,Kazakhstan,NULL,Almaty,1,1,1995,20
+Asia,Kazakhstan,NULL,Almaty,2,1,1995,17.8
+Asia,Kazakhstan,NULL,Almaty,3,1,1995,28.7
+Asia,Kazakhstan,NULL,Almaty,4,1,1995,46.8
+Asia,Kazakhstan,NULL,Almaty,5,1,1995,59.8
+Asia,Kazakhstan,NULL,Almaty,6,1,1995,64.3
+Asia,Kazakhstan,NULL,Almaty,7,1,1995,79.1
+Asia,Kazakhstan,NULL,Almaty,8,1,1995,74.9
+Asia,Kazakhstan,NULL,Almaty,9,1,1995,62.9
+Asia,Kazakhstan,NULL,Almaty,10,1,1995,53.6
+Asia,Kazakhstan,NULL,Almaty,11,1,1995,48.1
+Asia,Kazakhstan,NULL,Almaty,12,1,1995,27.4
+Asia,Laos,NULL,Vientiane,1,1,1995,79.5
+Asia,Laos,NULL,Vientiane,2,1,1995,71
+Asia,Laos,NULL,Vientiane,3,1,1995,81.9
+Asia,Laos,NULL,Vientiane,4,1,1995,90.1
+Asia,Laos,NULL,Vientiane,5,1,1995,89.4
+Asia,Laos,NULL,Vientiane,6,1,1995,86.2
+Asia,Laos,NULL,Vientiane,7,1,1995,86.7
+Asia,Laos,NULL,Vientiane,8,1,1995,81.5
+Asia,Laos,NULL,Vientiane,9,1,1995,82.2
+Asia,Laos,NULL,Vientiane,10,1,1995,84.7
+Asia,Laos,NULL,Vientiane,11,1,1995,83.8
+Asia,Laos,NULL,Vientiane,12,1,1995,79.2
+Asia,Malaysia,NULL,Kuala Lumpur,1,1,1995,82
+Asia,Malaysia,NULL,Kuala Lumpur,2,1,1995,82.1
+Asia,Malaysia,NULL,Kuala Lumpur,3,1,1995,81
+Asia,Malaysia,NULL,Kuala Lumpur,4,1,1995,82.3
+Asia,Malaysia,NULL,Kuala Lumpur,5,1,1995,80.7
+Asia,Malaysia,NULL,Kuala Lumpur,6,1,1995,82.3
+Asia,Malaysia,NULL,Kuala Lumpur,7,1,1995,79
+Asia,Malaysia,NULL,Kuala Lumpur,8,1,1995,81.9
+Asia,Malaysia,NULL,Kuala Lumpur,9,1,1995,83
+Asia,Malaysia,NULL,Kuala Lumpur,10,1,1995,83.5
+Asia,Malaysia,NULL,Kuala Lumpur,11,1,1995,80.4
+Asia,Malaysia,NULL,Kuala Lumpur,12,1,1995,83.1
+Asia,Philippines,NULL,Manila,1,1,1995,78.8
+Asia,Philippines,NULL,Manila,2,1,1995,77.9
+Asia,Philippines,NULL,Manila,3,1,1995,79.7
+Asia,Philippines,NULL,Manila,4,1,1995,84.1
+Asia,Philippines,NULL,Manila,5,1,1995,86.2
+Asia,Philippines,NULL,Manila,6,1,1995,81.8
+Asia,Philippines,NULL,Manila,7,1,1995,81
+Asia,Philippines,NULL,Manila,8,1,1995,81.4
+Asia,Philippines,NULL,Manila,9,1,1995,80.4
+Asia,Philippines,NULL,Manila,10,1,1995,77.6
+Asia,Philippines,NULL,Manila,11,1,1995,79.3
+Asia,Philippines,NULL,Manila,12,1,1995,80.8
+Asia,Singapore,NULL,Singapore,1,1,1995,81.1
+Asia,Singapore,NULL,Singapore,2,1,1995,80.8
+Asia,Singapore,NULL,Singapore,3,1,1995,79.9
+Asia,Singapore,NULL,Singapore,4,1,1995,81.7
+Asia,Singapore,NULL,Singapore,5,1,1995,80.5
+Asia,Singapore,NULL,Singapore,9,1,1995,77.9
+Asia,Singapore,NULL,Singapore,6,1,1995,85.4
+Asia,Singapore,NULL,Singapore,7,1,1995,83.1
+Asia,Singapore,NULL,Singapore,8,1,1995,82.1
+Asia,Singapore,NULL,Singapore,10,1,1995,85.8
+Asia,Singapore,NULL,Singapore,11,1,1995,84.1
+Asia,Singapore,NULL,Singapore,12,1,1995,82.2
+Asia,South Korea,NULL,Seoul,1,1,1995,23.3
+Asia,South Korea,NULL,Seoul,2,1,1995,20.3
+Asia,South Korea,NULL,Seoul,3,1,1995,31.5
+Asia,South Korea,NULL,Seoul,4,1,1995,40.3
+Asia,South Korea,NULL,Seoul,5,1,1995,61.5
+Asia,South Korea,NULL,Seoul,6,1,1995,68.6
+Asia,South Korea,NULL,Seoul,7,1,1995,70.8
+Asia,South Korea,NULL,Seoul,8,1,1995,81.6
+Asia,South Korea,NULL,Seoul,9,1,1995,78.6
+Asia,South Korea,NULL,Seoul,10,1,1995,60.4
+Asia,South Korea,NULL,Seoul,11,1,1995,34.9
+Asia,South Korea,NULL,Seoul,12,1,1995,30.9
+Asia,Taiwan,NULL,Taipei,1,1,1995,61.1
+Asia,Taiwan,NULL,Taipei,2,1,1995,51.8
+Asia,Taiwan,NULL,Taipei,3,1,1995,60.1
+Asia,Taiwan,NULL,Taipei,4,1,1995,62
+Asia,Taiwan,NULL,Taipei,5,1,1995,80.9
+Asia,Taiwan,NULL,Taipei,6,1,1995,84.8
+Asia,Taiwan,NULL,Taipei,7,1,1995,84.9
+Asia,Taiwan,NULL,Taipei,8,1,1995,83.9
+Asia,Taiwan,NULL,Taipei,9,1,1995,85.6
+Asia,Taiwan,NULL,Taipei,10,1,1995,82.6
+Asia,Taiwan,NULL,Taipei,11,1,1995,70.1
+Asia,Taiwan,NULL,Taipei,12,1,1995,63.7
+Asia,Vietnam,NULL,Hanoi,1,1,1995,58.4
+Asia,Vietnam,NULL,Hanoi,2,1,1995,52.6
+Asia,Vietnam,NULL,Hanoi,3,1,1995,65.3
+Asia,Vietnam,NULL,Hanoi,4,1,1995,68.1
+Asia,Vietnam,NULL,Hanoi,5,1,1995,79.2
+Asia,Vietnam,NULL,Hanoi,6,1,1995,83.6
+Asia,Vietnam,NULL,Hanoi,7,1,1995,86.2
+Asia,Vietnam,NULL,Hanoi,8,1,1995,83.7
+Asia,Vietnam,NULL,Hanoi,9,1,1995,84.6
+Asia,Vietnam,NULL,Hanoi,10,1,1995,82.1
+Asia,Vietnam,NULL,Hanoi,11,1,1995,77.9
+Asia,Vietnam,NULL,Hanoi,12,1,1995,72.8
+Europe,France,NULL,Paris,1,1,1995,37.4
+Europe,France,NULL,Paris,2,1,1995,53.5
+Europe,France,NULL,Paris,3,1,1995,48
+Europe,France,NULL,Paris,4,1,1995,53.7
+Europe,France,NULL,Paris,5,1,1995,56.2
+Europe,France,NULL,Paris,6,1,1995,58.4
+Europe,France,NULL,Paris,7,1,1995,79.5
+Europe,France,NULL,Paris,8,1,1995,82.4
+Europe,France,NULL,Paris,9,1,1995,62.7
+Europe,France,NULL,Paris,10,1,1995,63.9
+Europe,France,NULL,Paris,11,1,1995,45.4
+Europe,France,NULL,Paris,12,1,1995,40.4
+Australia/South Pacific,Australia,NULL,Sydney,1,1,1995,59.1
+Australia/South Pacific,Australia,NULL,Sydney,2,1,1995,69.4
+Australia/South Pacific,Australia,NULL,Sydney,3,1,1995,66.3
+Australia/South Pacific,Australia,NULL,Sydney,4,1,1995,55.4
+Australia/South Pacific,Australia,NULL,Sydney,5,1,1995,55.5
+Australia/South Pacific,Australia,NULL,Sydney,6,1,1995,49.1
+Australia/South Pacific,Australia,NULL,Sydney,7,1,1995,47
+Australia/South Pacific,Australia,NULL,Sydney,8,1,1995,47.7
+Australia/South Pacific,Australia,NULL,Sydney,9,1,1995,48.1
+Australia/South Pacific,Australia,NULL,Sydney,10,1,1995,59
+Australia/South Pacific,Australia,NULL,Sydney,11,1,1995,70.8
+Australia/South Pacific,Australia,NULL,Sydney,12,1,1995,55.1
+Australia/South Pacific,New Zealand,NULL,Auckland,1,1,1995,63.6
+Australia/South Pacific,New Zealand,NULL,Auckland,2,1,1995,69.9
+Australia/South Pacific,New Zealand,NULL,Auckland,3,1,1995,65.3
+Australia/South Pacific,New Zealand,NULL,Auckland,4,1,1995,68.1
+Australia/South Pacific,New Zealand,NULL,Auckland,5,1,1995,61
+Australia/South Pacific,New Zealand,NULL,Auckland,6,1,1995,54.7
+Australia/South Pacific,New Zealand,NULL,Auckland,7,1,1995,48.8
+Australia/South Pacific,New Zealand,NULL,Auckland,8,1,1995,49.6
+Australia/South Pacific,New Zealand,NULL,Auckland,9,1,1995,57.6
+Australia/South Pacific,New Zealand,NULL,Auckland,10,1,1995,58.6
+Australia/South Pacific,New Zealand,NULL,Auckland,11,1,1995,58.3
+Australia/South Pacific,New Zealand,NULL,Auckland,12,1,1995,64.6
+Europe,Austria,NULL,Vienna,1,1,1995,35.7
+Europe,Austria,NULL,Vienna,2,1,1995,32.8
+Europe,Austria,NULL,Vienna,3,1,1995,41.2
+Europe,Austria,NULL,Vienna,4,1,1995,41.2
+Europe,Austria,NULL,Vienna,5,1,1995,57.5
+Europe,Austria,NULL,Vienna,6,1,1995,64
+Europe,Austria,NULL,Vienna,7,1,1995,73
+Europe,Austria,NULL,Vienna,8,1,1995,73.6
+Europe,Austria,NULL,Vienna,9,1,1995,52
+Europe,Austria,NULL,Vienna,10,1,1995,48.6
+Europe,Austria,NULL,Vienna,11,1,1995,49.2
+Europe,Austria,NULL,Vienna,12,1,1995,34.4
+Europe,Denmark,NULL,Copenhagen,1,1,1995,34.2
+Europe,Denmark,NULL,Copenhagen,2,1,1995,39.6
+Europe,Denmark,NULL,Copenhagen,3,1,1995,45.3
+Europe,Denmark,NULL,Copenhagen,4,1,1995,43.3
+Europe,Denmark,NULL,Copenhagen,5,1,1995,43.9
+Europe,Denmark,NULL,Copenhagen,6,1,1995,53.4
+Europe,Denmark,NULL,Copenhagen,7,1,1995,56.4
+Europe,Denmark,NULL,Copenhagen,8,1,1995,70.8
+Europe,Denmark,NULL,Copenhagen,9,1,1995,57.2
+Europe,Denmark,NULL,Copenhagen,10,1,1995,44.6
+Europe,Denmark,NULL,Copenhagen,11,1,1995,40.7
+Europe,Denmark,NULL,Copenhagen,12,1,1995,32.7
+Europe,Finland,NULL,Helsinki,1,1,1995,34.9
+Europe,Finland,NULL,Helsinki,2,1,1995,23.6
+Europe,Finland,NULL,Helsinki,3,1,1995,34.4
+Europe,Finland,NULL,Helsinki,4,1,1995,30.7
+Europe,Finland,NULL,Helsinki,5,1,1995,35.1
+Europe,Finland,NULL,Helsinki,6,1,1995,69.6
+Europe,Finland,NULL,Helsinki,7,1,1995,52
+Europe,Finland,NULL,Helsinki,8,1,1995,62.8
+Europe,Finland,NULL,Helsinki,9,1,1995,57.6
+Europe,Finland,NULL,Helsinki,10,1,1995,45.4
+Europe,Finland,NULL,Helsinki,11,1,1995,22.2
+Europe,Finland,NULL,Helsinki,12,1,1995,32.2
+Europe,Germany,NULL,Munich,1,1,1995,33.7
+Europe,Germany,NULL,Munich,2,1,1995,34.9
+Europe,Germany,NULL,Munich,3,1,1995,39.9
+Europe,Germany,NULL,Munich,4,1,1995,39.6
+Europe,Germany,NULL,Munich,5,1,1995,53.1
+Europe,Germany,NULL,Munich,6,1,1995,54.6
+Europe,Germany,NULL,Munich,7,1,1995,73.6
+Europe,Germany,NULL,Munich,8,1,1995,72
+Europe,Germany,NULL,Munich,9,1,1995,50.1
+Europe,Germany,NULL,Munich,10,1,1995,49.1
+Europe,Germany,NULL,Munich,11,1,1995,48.2
+Europe,Germany,NULL,Munich,12,1,1995,31.5
+Europe,Italy,NULL,Rome,1,1,1995,58.3
+Europe,Italy,NULL,Rome,2,1,1995,43.1
+Europe,Italy,NULL,Rome,3,1,1995,50
+Europe,Italy,NULL,Rome,4,1,1995,46.5
+Europe,Italy,NULL,Rome,5,1,1995,59.1
+Europe,Italy,NULL,Rome,6,1,1995,59.1
+Europe,Italy,NULL,Rome,7,1,1995,73.1
+Europe,Italy,NULL,Rome,8,1,1995,75.9
+Europe,Italy,NULL,Rome,9,1,1995,64.4
+Europe,Italy,NULL,Rome,10,1,1995,60.2
+Europe,Italy,NULL,Rome,11,1,1995,59.2
+Europe,Italy,NULL,Rome,12,1,1995,47.4
+Europe,Norway,NULL,Oslo,1,1,1995,24
+Europe,Norway,NULL,Oslo,2,1,1995,30.8
+Europe,Norway,NULL,Oslo,3,1,1995,34.5
+Europe,Norway,NULL,Oslo,4,1,1995,38.1
+Europe,Norway,NULL,Oslo,5,1,1995,40.6
+Europe,Norway,NULL,Oslo,6,1,1995,60.4
+Europe,Norway,NULL,Oslo,7,1,1995,52.1
+Europe,Norway,NULL,Oslo,8,1,1995,70.1
+Europe,Norway,NULL,Oslo,9,1,1995,56.5
+Europe,Norway,NULL,Oslo,10,1,1995,36.2
+Europe,Norway,NULL,Oslo,11,1,1995,29
+Europe,Norway,NULL,Oslo,12,1,1995,22.2
+Europe,Russia,NULL,Moscow,1,1,1995,32.3
+Europe,Russia,NULL,Moscow,2,1,1995,16.9
+Europe,Russia,NULL,Moscow,3,1,1995,34.9
+Europe,Russia,NULL,Moscow,4,1,1995,31.1
+Europe,Russia,NULL,Moscow,5,1,1995,36.6
+Europe,Russia,NULL,Moscow,6,1,1995,72.6
+Europe,Russia,NULL,Moscow,7,1,1995,61.1
+Europe,Russia,NULL,Moscow,8,1,1995,63.8
+Europe,Russia,NULL,Moscow,9,1,1995,64.4
+Europe,Russia,NULL,Moscow,10,1,1995,45.1
+Europe,Russia,NULL,Moscow,11,1,1995,22.8
+Europe,Russia,NULL,Moscow,12,1,1995,24.3
+Europe,Spain,NULL,Barcelona,1,1,1995,50.8
+Europe,Spain,NULL,Barcelona,2,1,1995,50.2
+Europe,Spain,NULL,Barcelona,3,1,1995,50.7
+Europe,Spain,NULL,Barcelona,4,1,1995,54.5
+Europe,Spain,NULL,Barcelona,5,1,1995,60.7
+Europe,Spain,NULL,Barcelona,6,1,1995,65.2
+Europe,Spain,NULL,Barcelona,7,1,1995,74.6
+Europe,Spain,NULL,Barcelona,8,1,1995,77.6
+Europe,Spain,NULL,Barcelona,9,1,1995,73.3
+Europe,Spain,NULL,Barcelona,10,1,1995,67.9
+Europe,Spain,NULL,Barcelona,11,1,1995,65
+Europe,Spain,NULL,Barcelona,12,1,1995,54.9
+Europe,United Kingdom,NULL,London,1,1,1995,34.2
+Europe,United Kingdom,NULL,London,2,1,1995,50.1
+Europe,United Kingdom,NULL,London,3,1,1995,45.9
+Europe,United Kingdom,NULL,London,4,1,1995,56.2
+Europe,United Kingdom,NULL,London,5,1,1995,56
+Europe,United Kingdom,NULL,London,6,1,1995,56.7
+Europe,United Kingdom,NULL,London,7,1,1995,62.7
+Europe,United Kingdom,NULL,London,8,1,1995,80
+Europe,United Kingdom,NULL,London,9,1,1995,63.2
+Europe,United Kingdom,NULL,London,10,1,1995,60.5
+Europe,United Kingdom,NULL,London,11,1,1995,48.5
+Europe,United Kingdom,NULL,London,12,1,1995,46.9
+Middle East,Turkey,NULL,Istanbul,1,1,1995,55
+Middle East,Turkey,NULL,Istanbul,2,1,1995,42.1
+Middle East,Turkey,NULL,Istanbul,3,1,1995,46.1
+Middle East,Turkey,NULL,Istanbul,4,1,1995,41
+Middle East,Turkey,NULL,Istanbul,5,1,1995,58.5
+Middle East,Turkey,NULL,Istanbul,6,1,1995,68.8
+Middle East,Turkey,NULL,Istanbul,7,1,1995,75.7
+Middle East,Turkey,NULL,Istanbul,8,1,1995,76.6
+Middle East,Turkey,NULL,Istanbul,9,1,1995,73.6
+Middle East,Turkey,NULL,Istanbul,10,1,1995,59
+Middle East,Turkey,NULL,Istanbul,11,1,1995,58.1
+Middle East,Turkey,NULL,Istanbul,12,1,1995,48.7
+North America,Canada,NULL,Quebec,1,1,1995,18
+North America,Canada,NULL,Quebec,2,1,1995,20.9
+North America,Canada,NULL,Quebec,3,1,1995,19.1
+North America,Canada,NULL,Quebec,4,1,1995,28.5
+North America,Canada,NULL,Quebec,5,1,1995,51.8
+North America,Canada,NULL,Quebec,6,1,1995,68.8
+North America,Canada,NULL,Quebec,7,1,1995,66.2
+North America,Canada,NULL,Quebec,8,1,1995,74.5
+North America,Canada,NULL,Quebec,9,1,1995,61.5
+North America,Canada,NULL,Quebec,10,1,1995,54.8
+North America,Canada,NULL,Quebec,11,1,1995,31.3
+North America,Canada,NULL,Quebec,12,1,1995,15.6
+North America,Mexico,NULL,Mexico City,1,1,1995,57.7
+North America,Mexico,NULL,Mexico City,2,1,1995,55.3
+North America,Mexico,NULL,Mexico City,3,1,1995,60.5
+North America,Mexico,NULL,Mexico City,4,1,1995,67.1
+North America,Mexico,NULL,Mexico City,5,1,1995,66.7
+North America,Mexico,NULL,Mexico City,6,1,1995,68.2
+North America,Mexico,NULL,Mexico City,7,1,1995,59.7
+North America,Mexico,NULL,Mexico City,8,1,1995,67
+North America,Mexico,NULL,Mexico City,9,1,1995,62.5
+North America,Mexico,NULL,Mexico City,10,1,1995,63.5
+North America,Mexico,NULL,Mexico City,11,1,1995,65.1
+North America,Mexico,NULL,Mexico City,12,1,1995,61.5
+South/Central America & Carribean,Brazil,NULL,Rio de Janeiro,1,1,1995,84.7
+South/Central America & Carribean,Brazil,NULL,Rio de Janeiro,2,1,1995,80.7
+South/Central America & Carribean,Brazil,NULL,Rio de Janeiro,3,1,1995,86.3
+South/Central America & Carribean,Brazil,NULL,Rio de Janeiro,4,1,1995,83.1
+South/Central America & Carribean,Brazil,NULL,Rio de Janeiro,5,1,1995,77
+South/Central America & Carribean,Brazil,NULL,Rio de Janeiro,6,1,1995,72.2
+South/Central America & Carribean,Brazil,NULL,Rio de Janeiro,7,1,1995,70.2
+South/Central America & Carribean,Brazil,NULL,Rio de Janeiro,8,1,1995,72.8
+South/Central America & Carribean,Brazil,NULL,Rio de Janeiro,9,1,1995,77.5
+South/Central America & Carribean,Brazil,NULL,Rio de Janeiro,10,1,1995,76
+South/Central America & Carribean,Brazil,NULL,Rio de Janeiro,11,1,1995,66.2
+South/Central America & Carribean,Brazil,NULL,Rio de Janeiro,12,1,1995,76.8
+North America,US (LA),California,Los Angeles,1,1,1995,56.4
+North America,US (LA),California,Los Angeles,2,1,1995,63.9
+North America,US (LA),California,Los Angeles,3,1,1995,58.8
+North America,US (LA),California,Los Angeles,4,1,1995,60.1
+North America,US (LA),California,Los Angeles,5,1,1995,61.3
+North America,US (LA),California,Los Angeles,6,1,1995,60.7
+North America,US (LA),California,Los Angeles,7,1,1995,64.7
+North America,US (LA),California,Los Angeles,8,1,1995,68.8
+North America,US (LA),California,Los Angeles,9,1,1995,69.7
+North America,US (LA),California,Los Angeles,10,1,1995,69.4
+North America,US (LA),California,Los Angeles,11,1,1995,61.1
+North America,US (LA),California,Los Angeles,12,1,1995,58.7
